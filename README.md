@@ -755,6 +755,14 @@ Tools that didn't fit neatly into a category but are worth knowing about:
 
 
 
+## Also by WEDGE Method
+
+- **[business-prompts](https://github.com/jakeolschewski/business-prompts)** — 94 production-ready AI prompts for every business function. Copy, paste, profit.
+- **[consultant-ai](https://github.com/jakeolschewski/consultant-ai)** — Open-source MCP server that turns Claude/ChatGPT into a consulting co-pilot
+- **[WEDGE Autopilot](https://thewedgemethodai.com)** — The full AI consulting suite (SaaS)
+
+---
+
 ## Contributing
 
 This list is maintained by [WEDGE Method LLC](https://thewedgemethodai.com). Contributions welcome.
