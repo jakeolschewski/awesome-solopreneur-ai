@@ -342,6 +342,7 @@ Win more deals by sending better proposals faster. Clients decide whether to hir
 - [Pitch](https://pitch.com) - Collaborative presentation tool with AI design and content generation. Strong for team pitches. `Freemium`
 - [Google Slides + Duet AI](https://workspace.google.com) - If you're in Google Workspace, Duet AI generates slide content and speaker notes. `Freemium`
 - [consultant-ai](https://github.com/jakeolschewski/consultant-ai) - Open source MCP server for generating consulting deliverables (SOWs, proposals, frameworks) using AI. Built by WEDGE Method. `Open Source`
+- [WedgeGuard](https://github.com/jakeolschewski/wedgeguard) — VS Code extension: lock code with Wedges, generate with local AI
 - [Tome](https://tome.app) - AI-powered storytelling tool for presentations and proposals. Generates narrative structures from a single prompt. `Freemium`
 - [Slite](https://slite.com) - AI-powered documentation platform with templates and version control. Good for creating SOPs and client-facing documentation. `Freemium`
 
@@ -758,7 +759,9 @@ Tools that didn't fit neatly into a category but are worth knowing about:
 ## Also by WEDGE Method
 
 - **[business-prompts](https://github.com/jakeolschewski/business-prompts)** — 94 production-ready AI prompts for every business function. Copy, paste, profit.
+- [WedgeGuard](https://github.com/jakeolschewski/wedgeguard) — VS Code extension: lock code with Wedges, generate with local AI
 - **[consultant-ai](https://github.com/jakeolschewski/consultant-ai)** — Open-source MCP server that turns Claude/ChatGPT into a consulting co-pilot
+- [WedgeGuard](https://github.com/jakeolschewski/wedgeguard) — VS Code extension: lock code with Wedges, generate with local AI
 - **[WEDGE Autopilot](https://thewedgemethodai.com)** — The full AI consulting suite (SaaS)
 
 ---
