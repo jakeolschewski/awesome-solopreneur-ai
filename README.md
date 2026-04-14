@@ -18,6 +18,15 @@ Every "awesome AI" list out there is built for developers. This one is built for
 
 ---
 
+## 🚀 Get a Custom AI Strategy
+
+This list curates what's possible. If you want someone to build it *for* your business,
+I offer AI consulting for solopreneurs — from automation audits to full workflow builds.
+
+**[→ Apply for a free AI Discovery Call](https://docs.google.com/forms/d/e/1FAIpQLSd0GSjcTxKsTopJkaXzH6WvkfQ8_d5hzWZKkfZ9QqmesWGPig/viewform)**
+
+---
+
 ## Contents
 
 - [🧠 AI Assistants & Copilots](#-ai-assistants--copilots)
@@ -801,3 +810,10 @@ Before submitting a PR, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Jacob Olschewski / WEDGE Method LLC](https://thewedgemethodai.com) has waived all copyright and related rights to this work.
+
+## 🚀 Get a Custom AI Strategy
+
+This list curates what's possible. If you want someone to build it *for* your business,
+I offer AI consulting for solopreneurs — from automation audits to full workflow builds.
+
+**[→ Apply for a free AI Discovery Call](https://docs.google.com/forms/d/e/1FAIpQLSd0GSjcTxKsTopJkaXzH6WvkfQ8_d5hzWZKkfZ9QqmesWGPig/viewform)**
