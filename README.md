@@ -7,10 +7,14 @@
 Every "awesome AI" list out there is built for developers. This one is built for you — the consultant landing clients, the freelancer juggling five projects, the one-person business trying to punch above its weight. Every tool here is real, actively maintained, and genuinely useful without a computer science degree.
 
 [![Stars](https://img.shields.io/github/stars/jakeolschewski/awesome-solopreneur-ai?style=flat-square)](https://github.com/jakeolschewski/awesome-solopreneur-ai/stargazers)
+[![Forks](https://img.shields.io/github/forks/jakeolschewski/awesome-solopreneur-ai?style=flat-square)](https://github.com/jakeolschewski/awesome-solopreneur-ai/network/members)
+[![Issues](https://img.shields.io/github/issues/jakeolschewski/awesome-solopreneur-ai?style=flat-square)](https://github.com/jakeolschewski/awesome-solopreneur-ai/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/jakeolschewski/awesome-solopreneur-ai?style=flat-square)](https://github.com/jakeolschewski/awesome-solopreneur-ai/commits/main)
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/last%20updated-2025-blue.svg?style=flat-square)](https://github.com/jakeolschewski/awesome-solopreneur-ai/commits/main)
-[![Maintained by WEDGE Method](https://img.shields.io/badge/maintained%20by-WEDGE%20Method%20LLC-purple.svg?style=flat-square)](https://thewedgemethodai.com)
+[![Built by WEDGE Method](https://img.shields.io/badge/Built%20by-WEDGE%20Method-6B3FA0?style=flat-square)](https://thewedgemethodai.com)
+
+> Part of the **[WEDGE Method ecosystem](https://thewedgemethodai.com)** — AI strategy and implementation for modern businesses.
 
 ---
 
@@ -766,9 +770,15 @@ Tools that didn't fit neatly into a category but are worth knowing about:
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jakeolschewski/awesome-solopreneur-ai&type=Date)](https://star-history.com/#jakeolschewski/awesome-solopreneur-ai&Date)
+
+---
+
 ## Contributing
 
-This list is maintained by [WEDGE Method LLC](https://thewedgemethodai.com). Contributions welcome.
+This list is maintained by [WEDGE Method LLC](https://thewedgemethodai.com). Contributions welcome — this list grows because the community makes it better.
 
 Before submitting a PR, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -777,6 +787,12 @@ Before submitting a PR, please read [CONTRIBUTING.md](CONTRIBUTING.md).
 - Include accurate pricing information
 - Write descriptions that explain value, not just features
 - One tool per PR for new additions
+
+**Ways to contribute:**
+- [Submit a new tool](https://github.com/jakeolschewski/awesome-solopreneur-ai/issues/new) — open an issue with the tool name and why it belongs here
+- [Fix outdated info](https://github.com/jakeolschewski/awesome-solopreneur-ai/pulls) — pricing changes, shutdown tools, wrong descriptions
+- [Star the repo](https://github.com/jakeolschewski/awesome-solopreneur-ai/stargazers) — helps other solopreneurs discover this list
+- [Share it](https://thewedgemethodai.com) — post it on LinkedIn, Twitter, or your newsletter
 
 ---
 
