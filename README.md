@@ -283,6 +283,7 @@ The dirty secret of solopreneurs: most time is lost to disorganization, not lack
 - [Akiflow](https://akiflow.com) - Daily planner that consolidates tasks from 30+ tools into one unified inbox and time-blocks your day. `Paid`
 - [Linear](https://linear.app) - Fast, keyboard-driven project management. More opinionated than Notion, better for structured workflows. `Freemium`
 - [Asana](https://asana.com) - Project management with AI workflow builder and task automation. Good if you collaborate with clients or contractors. `Freemium`
+- [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool that converts documents, PDFs, and research into structured visual mind maps for idea organization, planning, and productivity workflows. `Freemium`
 - [Monday.com](https://monday.com) - Visual project management with AI features for status updates and risk detection. `Freemium`
 - [Obsidian](https://obsidian.md) - Local-first knowledge management with AI plugins. For the privacy-conscious solopreneur who wants to own their second brain. `Freemium`
 - [Mem](https://mem.ai) - AI-powered notes that automatically organize themselves and surface relevant information when you need it. `Freemium`
